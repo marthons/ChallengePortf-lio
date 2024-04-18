@@ -266,6 +266,16 @@ label:not(:first-of-type){
 .visible {
     display: block;
 }
+
+button {
+    margin-top: 5%;
+    border-radius: 999px;
+    box-shadow: #0202fa 0 10px 20px -10px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px 18px;
+    border: 10;
+}
   
 .footer {
     position: relative;
